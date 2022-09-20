@@ -1,0 +1,2 @@
+# Helmet-Wearing-Recognition-System
+First, a variety of YOLO models are selected for training. During the training process, parameters are constantly modified according to various indicators of model evaluation to adjust the model structure. Finally, the YOLOv5 model with high accuracy and the YOLOv3 tiny model with high frame rate are selected. Then, the front and rear ends are built, and functions such as data statistics, image detection based on YOLO model, and real-time monitoring of helmet wearing by video stream are realized.
